@@ -26,28 +26,45 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h4>🎯 Frontend</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/backbonedotjs/0071B5" alt="backbonejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
+</p>
+
+<h4>⚙️ Backend</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
+</p>
+
+<h4>🗄️ Databases</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+</p>
+
+<h4>🧰 Tools & Platforms</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
+</p>
+
+<h4>🧪 Additional / Exposure</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/backbonedotjs/0071B5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/>
 </p>
