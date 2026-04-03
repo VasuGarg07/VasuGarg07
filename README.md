@@ -47,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
 </p>
 
 <h4>🗄️ Databases</h4>
@@ -59,12 +60,4 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
-</p>
-
-<h4>🧪 Additional / Exposure</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/backbonedotjs/0071B5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/>
 </p>
