@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://vasu-garg.vercel.app/](https://vasu-garg.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/199zKEOLMWWbu5wkHeIjQeGJjt0SLCxJT/view?usp=sharing](https://drive.google.com/file/d/199zKEOLMWWbu5wkHeIjQeGJjt0SLCxJT/view?usp=sharing)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/VasuGarg07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VasuGarg07" height="30" width="40" /></a>
