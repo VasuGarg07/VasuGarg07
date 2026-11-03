@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>🎯 Frontend</h4>
-<p align="left"><img src="https://skillicons.dev/icons?i=angular,react,ts,js,nextjs,tailwind,html,css,react-native" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=angular,react,ts,js,nextjs,tailwind,html,css" /></p>
 
 <h4>⚙️ Backend</h4>
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,fastapi,flask" /></p>
